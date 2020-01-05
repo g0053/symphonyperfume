@@ -1,12 +1,11 @@
-### Welcome to Symphony Perfume
-# Fragrances' symphony
+## Welcome to Symphony Perfume
+### Fragrances' symphony
 
 
 
-### Currently website is under cunstruction
+# Currently website is under cunstruction
 
 
-### Contact:
 **Sales Enquiry:**
 - info@symphonyperfume.com
 - sales@symphonyperfume.com
