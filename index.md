@@ -1,13 +1,9 @@
 ### Welcome to Symphony Perfume
+# Fragrances' symphony
+
+
 
 ### Currently website is under cunstruction
-
-### Fragrances' symphony
-
-**Bold** and _Italic_ and `Code` text
-
-# [Link](url) and ![Image](src)
-
 
 
 ### Contact:
