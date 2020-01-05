@@ -8,6 +8,6 @@
 
 
 **Sales Enquiry:**
-- info@symphonyperfume.com
-- sales@symphonyperfume.com
+- <info@symphonyperfume.com>
+- <sales@symphonyperfume.com>
 
