@@ -7,7 +7,7 @@
 ### Under construction.
 
 
-**Sales Enquiry:**
+
 - <info@symphonyperfume.com>
 - <sales@symphonyperfume.com>
 
